@@ -1,0 +1,6 @@
+{
+  "name": "Structura Qurilish",
+  "description": "Professional qurilish va loyihalash xizmatlari. Biz mukammallikni loyihalashtiramiz va kelajakni quramiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
